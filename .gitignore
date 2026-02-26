@@ -1,0 +1,6 @@
+# Ignore Terraform executables and local state
+*.exe
+*.zip
+*.tfstate
+*.tfstate.*
+.terraform/
